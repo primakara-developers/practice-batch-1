@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   margin: 0;
+  padding: 0;
 }
 
 #banner {
@@ -10,3 +11,34 @@ body {
   height: 700px;
   width: 100%;
 }
+
+/*Navigation Section*/
+#navigation{
+	width: 100%;
+	padding-top: 49px;
+	display: inline-block;
+}
+
+#logo{
+	width: 180px;
+	margin-left: 94px;
+	float: left;
+}
+
+#menu{
+	float: right;
+    font-size: 18px;
+    margin-top: 11px;
+}
+
+.menu-item{
+	color: #ffffff;
+    float: left;
+    margin-right: 94px;
+    text-decoration: none;
+}
+
+.menu-item:hover{
+	color: #ccc;
+}
+/*End Navigation Section*/
