@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#banner {
+  background-image: url("../img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+}
