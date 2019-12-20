@@ -10,3 +10,52 @@ body {
   height: 700px;
   width: 100%;
 }
+
+.container {
+  padding: 100px;
+}
+
+#form {
+  margin-top: 50px;
+}
+#form .input-text,
+#form .input-checkbox {
+  margin-bottom: 30px;
+}
+#form .title {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+#form .input-text {
+  padding: 10px 15px;
+  font-size: 20px;
+  width: 30%;
+  border: 1px solid #888;
+  border-radius: 8px;
+}
+#form .input-checkbox-text {
+  font-size: 20px;
+  color: #555;
+}
+#form button {
+  padding: 10px 30px;
+  background: #475ee0;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+#footer {
+  padding: 25px;
+  text-align: center;
+  color: white;
+  background: #4d4d4d;
+  font-size: 20px;
+}
+
+/* text style */
+.text-blue {
+  color: #475ee0;
+}
