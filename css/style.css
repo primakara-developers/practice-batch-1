@@ -10,7 +10,7 @@ body {
   width: 100%;
 }
 
-/* Header Section*/
+/* Header Section */
 #header {
   width: 100%;
   margin-top: 49px;
@@ -25,42 +25,36 @@ body {
 
 #menu {
   float: right;
-  font-size: 18px;
-  margin-top: 11px;
+  margin-top: 10px;
 }
 
 .menu-item {
   color: #ffffff;
+  font-size: 20px;
   float: left;
-  margin-right: 94px;
+  margin-right: 72px;
   text-decoration: none;
 }
 
 .menu-item:hover {
-  color: #ccc;
+  opacity: 0.7;
 }
 
 /* title banner */
 #title-banner {
-  display: inline-block;
-  margin-bottom: 110px;
-  margin-top: 110px;
+  color: #ffffff;
+  margin-top: 200px;
   text-align: center;
-  width: 100%;
 }
 
-.title-text {
-  color: #fff;
-  font-size: 80px;
-  margin: 0;
-  margin-bottom: 40px;
+#title-text {
+  font-size: 106px;
+  margin-bottom: 0;
 }
 
-.subtitle-text {
-  color: #fff;
-  font-size: 32px;
-  margin: 0;
-  margin-top: 15px;
+#tagline {
+  font-size: 36px;
+  line-height: 1.6;
 }
 
 /* Card section */
