@@ -88,6 +88,19 @@ body {
   margin-top: 16px;
 }
 
+/* Card Item */
+.card-item-container {
+  margin-top: 72px;
+}
+
+.card-item {
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  margin-right: 48px;
+  padding: 60px 48px;
+}
+
 /* Form Section */
 .container {
   padding: 100px;
